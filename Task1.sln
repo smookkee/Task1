@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1", "Task1\Task1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeCalc", "ShapeCalc\ShapeCalc.csproj", "{F7F24EC4-034E-43C7-9F2F-CB33CCAAC167}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeCalcTest", "ShapeCalcTest\ShapeCalcTest.csproj", "{35826308-D6AC-4556-900E-196B0C22BAF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F7F24EC4-034E-43C7-9F2F-CB33CCAAC167}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7F24EC4-034E-43C7-9F2F-CB33CCAAC167}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7F24EC4-034E-43C7-9F2F-CB33CCAAC167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35826308-D6AC-4556-900E-196B0C22BAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35826308-D6AC-4556-900E-196B0C22BAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35826308-D6AC-4556-900E-196B0C22BAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35826308-D6AC-4556-900E-196B0C22BAF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
