@@ -14,8 +14,4 @@
     <Optimize>True</Optimize>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Tests\" />
-  </ItemGroup>
-
 </Project>
